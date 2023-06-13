@@ -1,0 +1,21 @@
+
+#nav-content
+{
+    background-color: red;
+}
+#ul-content
+{
+list-style: none;
+display: flex;
+width: 30%;
+margin: auto;
+}
+#li-content
+{
+    padding: 30px;
+}
+#li-content a
+{
+color:#ffffff;
+text-decoration: none;
+}
