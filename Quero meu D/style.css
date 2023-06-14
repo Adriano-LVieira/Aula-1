@@ -19,3 +19,9 @@ margin: auto;
 color:#ffffff;
 text-decoration: none;
 }
+.img_logo
+{
+    width: 10%;
+    float: left;
+    padding-top: 10px;
+}
